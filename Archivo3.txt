@@ -1,2 +1,3 @@
 Contenido Archivo3
 Modificado equipoB
+Modificado en equipoA
